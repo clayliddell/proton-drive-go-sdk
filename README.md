@@ -1,4 +1,4 @@
-# Proton Drive Go Package
+# Proton Drive Go SDK
 
 A narrow, pure-Go SDK for basic Proton Drive operations: login, directory
 listing, file upload/download, move, trash, and logout.
